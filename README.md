@@ -11,6 +11,10 @@ Step Tracker is an Android app made to act as both a pedometer and compass. It k
 * Direction instructions
 * Map configured maps
 
+## Screenshots
+
+![Step Tracker](http://richarddang.com/images/portfolio/step-tracker.gif)
+
 ## Known Issues
 * Currently none
 
